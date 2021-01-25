@@ -135,7 +135,7 @@ main .side-bar .price h4{
 
 main .items{
 	flex-basis: 88%;
-	padding:10px; 
+	padding:10px;
 	border-bottom: 1px solid gray;
 }
 main .items .navigator a:last-child{
